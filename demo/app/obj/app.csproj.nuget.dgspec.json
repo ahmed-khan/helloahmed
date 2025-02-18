@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ahmadkhan/Documents/Jan-2025/IT223-Visual/demo/app/app.csproj": {}
+    "/Users/ahmadkhan/Documents/GitHub/helloahmed/demo/app/app.csproj": {}
   },
   "projects": {
-    "/Users/ahmadkhan/Documents/Jan-2025/IT223-Visual/demo/app/app.csproj": {
+    "/Users/ahmadkhan/Documents/GitHub/helloahmed/demo/app/app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmadkhan/Documents/Jan-2025/IT223-Visual/demo/app/app.csproj",
+        "projectUniqueName": "/Users/ahmadkhan/Documents/GitHub/helloahmed/demo/app/app.csproj",
         "projectName": "app",
-        "projectPath": "/Users/ahmadkhan/Documents/Jan-2025/IT223-Visual/demo/app/app.csproj",
+        "projectPath": "/Users/ahmadkhan/Documents/GitHub/helloahmed/demo/app/app.csproj",
         "packagesPath": "/Users/ahmadkhan/.nuget/packages/",
-        "outputPath": "/Users/ahmadkhan/Documents/Jan-2025/IT223-Visual/demo/app/obj/",
+        "outputPath": "/Users/ahmadkhan/Documents/GitHub/helloahmed/demo/app/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ahmadkhan/.nuget/NuGet/NuGet.Config"
