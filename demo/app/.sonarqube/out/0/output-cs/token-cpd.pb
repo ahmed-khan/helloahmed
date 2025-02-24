@@ -1,8 +1,9 @@
-ú'
+Ž(
 @/Users/ahmadkhan/Documents/GitHub/helloahmed/demo/app/Program.cs
-public 
-class #
-SecurityVulnerabilities $
+public 
+static 
+class #
+SecurityVulnerabilities +
 { 
 static		 
 

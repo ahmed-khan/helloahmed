@@ -1,6 +1,6 @@
-projectKey=run2
+projectKey=finaldemo
 serverUrl=http://localhost:9000
 serverVersion=10.6.0.92116
-dashboardUrl=http://localhost:9000/dashboard?id=run2
-ceTaskId=af45549c-7d52-47be-ae20-a30ad97f0979
-ceTaskUrl=http://localhost:9000/api/ce/task?id=af45549c-7d52-47be-ae20-a30ad97f0979
+dashboardUrl=http://localhost:9000/dashboard?id=finaldemo
+ceTaskId=8ef8b063-8455-4561-ac07-76096d8a886e
+ceTaskUrl=http://localhost:9000/api/ce/task?id=8ef8b063-8455-4561-ac07-76096d8a886e
