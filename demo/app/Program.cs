@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.IO;
 using System.Collections.Generic;
 
-class SecurityVulnerabilities
+public class SecurityVulnerabilities
 {
     // Hardcoded credentials (Security Issue)
     static string username = "admin";

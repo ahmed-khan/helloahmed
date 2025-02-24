@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SonarProjectConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/analyzer/2021/1">
-  <AnalysisConfigPath>/Users/ahmadkhan/Documents/Jan-2025/IT223-Visual/demo/app/.sonarqube/conf/SonarQubeAnalysisConfig.xml</AnalysisConfigPath>
-  <ProjectPath>/Users/ahmadkhan/Documents/Jan-2025/IT223-Visual/demo/app/app.csproj</ProjectPath>
-  <FilesToAnalyzePath>/Users/ahmadkhan/Documents/Jan-2025/IT223-Visual/demo/app/.sonarqube/conf/0/FilesToAnalyze.txt</FilesToAnalyzePath>
-  <OutPath>/Users/ahmadkhan/Documents/Jan-2025/IT223-Visual/demo/app/.sonarqube/out/0</OutPath>
+  <AnalysisConfigPath>/Users/ahmadkhan/Documents/GitHub/helloahmed/demo/app/.sonarqube/conf/SonarQubeAnalysisConfig.xml</AnalysisConfigPath>
+  <ProjectPath>/Users/ahmadkhan/Documents/GitHub/helloahmed/demo/app/app.csproj</ProjectPath>
+  <FilesToAnalyzePath>/Users/ahmadkhan/Documents/GitHub/helloahmed/demo/app/.sonarqube/conf/0/FilesToAnalyze.txt</FilesToAnalyzePath>
+  <OutPath>/Users/ahmadkhan/Documents/GitHub/helloahmed/demo/app/.sonarqube/out/0</OutPath>
   <ProjectType>Product</ProjectType>
   <TargetFramework>net9.0</TargetFramework>
 </SonarProjectConfig>

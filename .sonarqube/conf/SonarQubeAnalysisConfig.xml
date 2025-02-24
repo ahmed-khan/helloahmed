@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AnalysisConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <SonarConfigDir>/Users/ahmadkhan/Documents/GitHub/helloahmed/demo/app/.sonarqube/conf</SonarConfigDir>
-  <SonarOutputDir>/Users/ahmadkhan/Documents/GitHub/helloahmed/demo/app/.sonarqube/out</SonarOutputDir>
-  <SonarBinDir>/Users/ahmadkhan/Documents/GitHub/helloahmed/demo/app/.sonarqube/bin</SonarBinDir>
-  <SonarScannerWorkingDirectory>/Users/ahmadkhan/Documents/GitHub/helloahmed/demo/app</SonarScannerWorkingDirectory>
+  <SonarConfigDir>/Users/ahmadkhan/Documents/GitHub/helloahmed/.sonarqube/conf</SonarConfigDir>
+  <SonarOutputDir>/Users/ahmadkhan/Documents/GitHub/helloahmed/.sonarqube/out</SonarOutputDir>
+  <SonarBinDir>/Users/ahmadkhan/Documents/GitHub/helloahmed/.sonarqube/bin</SonarBinDir>
+  <SonarScannerWorkingDirectory>/Users/ahmadkhan/Documents/GitHub/helloahmed</SonarScannerWorkingDirectory>
   <JavaExePath>/Users/ahmadkhan/.sonar/cache/003d3e0a65a2f0633b8bfed42be133724b490acb323c174c708d3a446d5fc660/OpenJDK17U-jre_aarch64_mac_hotspot_17.0.11_9.tar.gz_extracted/jdk-17.0.11+9-jre/Contents/Home/bin/java</JavaExePath>
   <ScanAllAnalysis>true</ScanAllAnalysis>
   <HasBeginStepCommandLineCredentials>true</HasBeginStepCommandLineCredentials>
@@ -15,7 +15,7 @@
     <ConfigSetting Id="TfsUri" />
     <ConfigSetting Id="VsCoverageConverterToolPath" />
     <ConfigSetting Id="UnchangedFilesPath" />
-    <ConfigSetting Id="sonar.pullrequest.cache.basepath" Value="/Users/ahmadkhan/Documents/GitHub/helloahmed/demo/app" />
+    <ConfigSetting Id="sonar.pullrequest.cache.basepath" Value="/Users/ahmadkhan/Documents/GitHub/helloahmed" />
     <ConfigSetting Id="settings.file.path" Value="/Users/ahmadkhan/.dotnet/tools/.store/dotnet-sonarscanner/9.1.0/dotnet-sonarscanner/9.1.0/tools/netcoreapp3.1/any/SonarQube.Analysis.xml" />
   </AdditionalConfig>
   <ServerSettings>
@@ -145,8 +145,8 @@
   <AnalyzersSettings>
     <AnalyzerSettings>
       <Language>cs</Language>
-      <RulesetPath>/Users/ahmadkhan/Documents/GitHub/helloahmed/demo/app/.sonarqube/conf/Sonar-cs.ruleset</RulesetPath>
-      <DeactivatedRulesetPath>/Users/ahmadkhan/Documents/GitHub/helloahmed/demo/app/.sonarqube/conf/Sonar-cs-none.ruleset</DeactivatedRulesetPath>
+      <RulesetPath>/Users/ahmadkhan/Documents/GitHub/helloahmed/.sonarqube/conf/Sonar-cs.ruleset</RulesetPath>
+      <DeactivatedRulesetPath>/Users/ahmadkhan/Documents/GitHub/helloahmed/.sonarqube/conf/Sonar-cs-none.ruleset</DeactivatedRulesetPath>
       <AnalyzerPlugins>
         <AnalyzerPlugin Key="csharp" Version="9.27.0.93347" StaticResourceName="SonarAnalyzer-9.27.0.93347.zip">
           <AssemblyPaths>
@@ -159,13 +159,13 @@
         </AnalyzerPlugin>
       </AnalyzerPlugins>
       <AdditionalFilePaths>
-        <Path>/Users/ahmadkhan/Documents/GitHub/helloahmed/demo/app/.sonarqube/conf/cs/SonarLint.xml</Path>
+        <Path>/Users/ahmadkhan/Documents/GitHub/helloahmed/.sonarqube/conf/cs/SonarLint.xml</Path>
       </AdditionalFilePaths>
     </AnalyzerSettings>
     <AnalyzerSettings>
       <Language>vbnet</Language>
-      <RulesetPath>/Users/ahmadkhan/Documents/GitHub/helloahmed/demo/app/.sonarqube/conf/Sonar-vbnet.ruleset</RulesetPath>
-      <DeactivatedRulesetPath>/Users/ahmadkhan/Documents/GitHub/helloahmed/demo/app/.sonarqube/conf/Sonar-vbnet-none.ruleset</DeactivatedRulesetPath>
+      <RulesetPath>/Users/ahmadkhan/Documents/GitHub/helloahmed/.sonarqube/conf/Sonar-vbnet.ruleset</RulesetPath>
+      <DeactivatedRulesetPath>/Users/ahmadkhan/Documents/GitHub/helloahmed/.sonarqube/conf/Sonar-vbnet-none.ruleset</DeactivatedRulesetPath>
       <AnalyzerPlugins>
         <AnalyzerPlugin Key="vbnet" Version="9.27.0.93347" StaticResourceName="SonarAnalyzer-9.27.0.93347.zip">
           <AssemblyPaths>
@@ -178,7 +178,7 @@
         </AnalyzerPlugin>
       </AnalyzerPlugins>
       <AdditionalFilePaths>
-        <Path>/Users/ahmadkhan/Documents/GitHub/helloahmed/demo/app/.sonarqube/conf/vbnet/SonarLint.xml</Path>
+        <Path>/Users/ahmadkhan/Documents/GitHub/helloahmed/.sonarqube/conf/vbnet/SonarLint.xml</Path>
       </AdditionalFilePaths>
     </AnalyzerSettings>
   </AnalyzersSettings>

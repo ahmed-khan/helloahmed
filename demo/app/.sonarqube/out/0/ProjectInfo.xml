@@ -3,15 +3,15 @@
   <ProjectName>app</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Product</ProjectType>
-  <ProjectGuid>6ed03d12-28f9-4002-bd0f-a575a6194939</ProjectGuid>
-  <FullPath>/Users/ahmadkhan/Documents/Jan-2025/IT223-Visual/demo/app/app.csproj</FullPath>
+  <ProjectGuid>c538fe0b-82c9-49a1-8ced-c52b65a406bf</ProjectGuid>
+  <FullPath>/Users/ahmadkhan/Documents/GitHub/helloahmed/demo/app/app.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
-    <AnalysisResult Id="FilesToAnalyze" Location="/Users/ahmadkhan/Documents/Jan-2025/IT223-Visual/demo/app/.sonarqube/conf/0/FilesToAnalyze.txt" />
+    <AnalysisResult Id="FilesToAnalyze" Location="/Users/ahmadkhan/Documents/GitHub/helloahmed/demo/app/.sonarqube/conf/0/FilesToAnalyze.txt" />
   </AnalysisResults>
   <AnalysisSettings>
-    <Property Name="sonar.cs.roslyn.reportFilePaths">/Users/ahmadkhan/Documents/Jan-2025/IT223-Visual/demo/app/.sonarqube/out/0/Issues.json</Property>
-    <Property Name="sonar.cs.analyzer.projectOutPaths">/Users/ahmadkhan/Documents/Jan-2025/IT223-Visual/demo/app/.sonarqube/out/0</Property>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">/Users/ahmadkhan/Documents/GitHub/helloahmed/demo/app/.sonarqube/out/0/Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">/Users/ahmadkhan/Documents/GitHub/helloahmed/demo/app/.sonarqube/out/0</Property>
   </AnalysisSettings>
   <Configuration>Debug</Configuration>
   <Platform>AnyCPU</Platform>
