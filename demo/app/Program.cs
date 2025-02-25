@@ -3,6 +3,8 @@ using System.Diagnostics;
 using System.IO;
 using System.Collections.Generic;
 
+namespace finaltest
+{
 public static class SecurityVulnerabilities
 {
     // Hardcoded credentials (Security Issue)
@@ -83,4 +85,5 @@ public static class SecurityVulnerabilities
         int weakRandom = random.Next(1000, 9999); // Weak for security purposes
         Console.WriteLine("Generated Weak Random Number: " + weakRandom);
     }
+}
 }
